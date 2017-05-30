@@ -1,0 +1,92 @@
+[CENTER][FONT="Palatino Linotype"][SIZE="6"][B]Ferrun Pickett[/B][/SIZE]
+[SIZE="4"][i]Catfolk Orphan, Turned Rancher[/i][/SIZE]
+[/FONT][/CENTER][FIELDSET="At a Glance"][tab][/tab][b]Name:[/b] Ferrun Pickett[IMGR]http://orig06.deviantart.net/001d/f/2013/163/a/5/main_cattle_drive__cr_kevin_bell_by_t_douglas_painting-d68qxd3.jpg[/IMGR]
+[tab][/tab][b]Race:[/b] Catfolk
+[tab][/tab][b]Class:[/b] Oracle (Ancestors)
+
+[tab][/tab][b]Gender:[/b] Male
+[tab][/tab][b]Alignment:[/b] Neutral Good
+[tab][/tab][b]Traits:[/b] Blight-Burned, Heirloom Weapon (whip)
+
+[b]Party Role (in combat):[/b]
+Mainly Battlefield Control (Casting and Combat Maneuvers), also buffing, short range fighting
+
+[b]Party Role (out of combat):[/b]
+Hidden Knowledge, Investigations, Divination, Speaking with the Dead, and Intimidation 
+
+[B]Three Most Important Things to Know About Ferrun:[/B]
+[SPOILERBUTTON=Key Concepts][LIST=1]
+[*][b]Absolutely Blighted:[/b] Ferrun looks just plain [i]awful[/i]. His furcoat has been completely tarnished by the blight-burning: several parts of his body are missing fur, boils frequently appear on his visible skin, his fur is matted in clumps and has a pale, orange-ish tinge.  Basically, his body is [TT="slowly rotting away from the fungal disease"]RP the Oracle's Curse: Wasting[/TT], and none of the normal cures available have been able to help. He is not contagious, but most people you ask still feel a little nervous around Ferrun.
+ -
+[*][b]Ancestors from Fangwood:[/b] Ferrun was born into an ancient catfolk community in Fangwood whose lands and traditions had kept them there for many many years. If you ask Ferrun about it, that is about as much as he can tell you: he was only a cub of 2 or 3 when the blight struck his home of birth. Ferrun believes the word of the [TT="Ol' Geezer"]see NPC's[/TT] who has told Ferrun that he was the only survivor. Ferrun has never desired to dig up his past, having been quite content with his foster family. However, he clearly has some magical talent which can only be attributed to his ancestors, and sometimes, when everything else on the plains is quiet... Every once in a while he hears the whispers on the wind of something old and ancient nagging at his ears.
+-
+[*][b]Fostered by Cattle Drivers:[/b] Most of Ferrun's childhood and adult life have been spent living with Tanner Pickett and his wife Marny. To Ferrun they are his father and mother. He loves his parents and they love him, even when sometimes Tanner (in particular) chooses not to show it. Growing up, Tanner and Marny taught Ferrun everything they knew about their way of life: raising and defending their cattle. Particularly in the Nesmian plains, though their is plenty of grazing to be had, one must always be on guard against predators, and often more importantly, the goblinoids and troglodytes hoping to steal some quick meals. It is a hard way of life, but for Ferrun, being on the trail is one of the only times he is free to be himself, where he is not judged for his appearance and his childhood scars.
+[/LIST][/SPOILERBUTTON]
+[/FIELDSET]
+[FIELDSET="Who is Ferrun?"][FIELDSET="Description and Personality"]Ferrun is most at ease when he is looking up at the stars in the night sky, the wind tickling his whiskers. There is something comforting about the stars, especially on cloudless nights. Sometimes he even imagines them whispering to him sweet words of comfort.
+
+This is probably why the think Ferrun hates most is winters in Phaendar. Ferrun has nothing against a warm fire. However, being stuck in a bunch of enclosed spaces with people who glare at him, or communicate their discomfort about his desiccating appearance by giving him a wide berth... That is just so... Well, it bites on one's nerves.
+
+Ferrun is not the type of person to voice these opinions however. Despite his intimidatingly, awful, appearance, Ferrun really cares about people and their emotions. He's a good listener and has a lot of empathy for other people's struggles, even if he himself has been dealt a pretty heavy hand.
+
+[SPOILERBUTTON=Quirks, Likes, and Dislikes][LIST]
+[*][b]Likes:[/b] Morning dew and sunrises
+[*][b]Hates:[/b] Goat milk. Its too... goaty.
+[*][b]Is afraid of:[/b] Being contagious and/or getting other people sick. While the scars of his childhood are not contagious, it always makes him nervous when he gets the flu. Maybe he will actually become contagious someday and hurt his family!
+[*][b]Quirks:[/b] Prefers non-verbal communication to verbal communication, when applicable. [i]"Speak with your body dammit, not with your words!"[/i]
+[*][b]Quirks:[/b] Enjoys trying to learn new tricks with his driving whip (specifically, the one given to him by Marny)
+[/LIST][/SPOILERBUTTON][/FIELDSET]
+[b]Ferrun's Background:[/b]
+[SPOILERBUTTON=Background][FIELDSET="Past and Present"][b]Curse of Ferrun's Birth:[/b]
+Ferrun was raised in a life of on the trail driving cattle, in wagons, on horseback, in caravans. This was a very different life from the one he was born into. His biological mother and father were catfolk from an ancient community living in the Fangwood Forest. Probably they were hunters, magic users, and crafters, somewhat secret or at least reclusive from other cities and villages in the region. Ferrun knows very little about his ancestors, simply that they were catfolk, and that his ancestors were decimated by blighted-fey. Ferrun was only a mere cub at the time and remembers none of what happened. Perhaps he has blocked it from his memory?
+
+Regardless, the scars of whatever happen still exist with him, inside and outside, today. Ugly is perhaps too nice of a word to describe his appearance, which he mostly keeps covered except for his face. Though he is not contagious in any way, his body is slowly decaying in appearance and boils frequently appear on his exposed skin as well as beneath what is left of his fur coat.
+
+He's asked the Ol' Geezer before if the Ol' Geezer thought he could be cured but mostly received cryptic responses, which Ferrun mostly interpreted as, "No." The Ol' Geezer was the man who left him with Mr. and Mrs. Pickett, his new family, when he was barely 3. If anyone knew of a cure for Ferrun, it would be the Ol' Geezer.
+
+Ferrun has never had the courage, or the interest, to ask the Ol' Geezer how Ferrun survived. Having spent the majority of his life in the loving care of Mr. and Mrs. Pickett, why should he care? His past has taken a back seat to his present, a life that has its challenges but is overall something he enjoys.
+
+[b]Blessings of His Current Life:[/b]
+Currently, he lives his life as a cattle driver with his foster parents. They take to the trail during the spring and summer seasons, leading their grazing cattle across the Nesmian plains and protecting them from the goblinoids and other monstrous creatures. During the winter months, they stay in Phaendar, tanning hide, crafting leather, and preparing for their next year's run through the plains.
+
+Mr. Tanner Pickett and Mrs. Marny Pickett's cattle business is pretty well-known in the region. The operation is not huge, but because they are willing to risk the dangers of leading their livestock around the plains, more than a few villages have grown to respect the Pickett's and their high-quality product. This also means that in general, they need to hire more than a few handlers to come with them and help protect that product, many from whom Ferrun has learned much about fighting and defending himself.
+
+In any case, Ferrun loves the business, even with its risks. Probably the thing he appreciates most is being under the open sky and being away from the judgements of other people. When you are out on the trail, there is a certain freedom, peace, and rhythm of life that Ferrun has never found, even in the small town of Phaendar.[/FIELDSET][/SPOILERBUTTON]
+[/FIELDSET]
+[FIELDSET="Roleplay Sample"][SPOILERBUTTON=Goblin Trouble][FIELDSET="Goblin Trouble"]Looking out across the field, Ferrun could see heat waves shimmering in the sunlight. How long had it been since the Nesmian plains had seen a day this hot? Ferrun couldn't remember a day like this in his lifetime. Even underneath the welcoming shade of the tree he was resting on, it was still god-awful-hot.
+
+Ferrun's horse grumbled nearby as if in agreement with his assessment. Ferrun allowed his brain to unravel and his thoughts to wander. [i]'We are at least another day or two's ride from the lake. Hopefully, it'll be...'[/i]
+
+This thought was interrupted by a cry of urgency from nearby. Who was it but that new cub of a man, Lester? Why had [TT="Pops"]Mr. Pickett[/TT] hired the boy anyways? Ferrun knew they always needed extra hands, but sometimes it felt like they didn't trust Ferrun to...
+
+[b]"Aw, damn it all to hell!"[/b] Ferrun swore aloud to himself, standing up and urgently beginning to untie his horse. How could he have been so stupid? He was the one supposed to be on watch!
+
+[b]"Come on Lester, don't just shout at me! Go on and tell Mom and Pops, and I'll make sure there ain't no stragglers from the herd still grazing nearby!"[/b]
+
+Mounting his horse as quickly as he could, Ferrun started heading for where he had last seen one of the bulls grazing nearby. If he didn't get to it soon, it was about to get a rude awakening: not to far in the distance, a band of goblins was heading their way. 
+
+What had possessed a group of goblins to go hunting in the middle of the day? Ferrun wondered to himself. He urged his horse to gallop faster. Didn't Pops have a saying for something like this?
+
+[b]"When its hot, even the fish get angry..."[/b] Sometimes Pops said things that made no sense to Ferrun at all, but suddenly, this statement seemed to be terribly appropriate. Ferrun had better hurry![/FIELDSET][/SPOILERBUTTON][/FIELDSET]
+[FIELDSET="NPCs"][SPOILERBUTTON=Mr. and Mrs. Pickett][FIELDSET="Mr. and Mrs. Pickett"][IMGL]https://s-media-cache-ak0.pinimg.com/236x/51/08/80/510880a3c07c39d7dd271c677cab2691.jpg[/IMGL][b]Tanner and Marny Pickett:[/b] 
+Ferrun's foster parents. Taught him everything he knows, took care of him in his youth, and the people he cares most about in the whole world. Tanner and Marny spend warm seasons driving and selling their cattle around the Nesmian plains. They are well known in the region for their high quality meat. They spend the winter seasons in Phaendar.
+
+Mr. Pickett is known to be a bit rough around the edges, but is generally good at heart. Both Tanner and Marny are strong-willed, independent, and free-spirited.
+
+Ferrun will do anything to protect Tanner and Marny from harm.[/FIELDSET][/SPOILERBUTTON]
+[SPOILERBUTTON=The Ol' Geezer][FIELDSET="Ol' Geezer"][IMGR]https://s-media-cache-ak0.pinimg.com/236x/68/45/e3/6845e351fa8f7dba2ebf8e2ea0a2f472.jpg[/IMGR]
+
+[b]Cedric (or better known as the "Ol' Geezer"):[/b] 
+Mysterious old wizard, perhaps once an adventurer. The Ol' Geezer was the man who left Ferrun with Mr. and Mrs. Pickett. Sometimes he passes through Phaendar. Is the only person Ferrun knows who seems to know much of anything about Ferrun's ancestors (not that Ferrun has had many questions).
+
+Rumor has it that the Ol' Geezer is somewhat of an archaeologist and is interested in all sorts of ancient ruins in the region.
+
+Ferrun tries to grab a drink with the Ol' Geezer whenever he gets the chance, if only for the mischievous twinkle the old man gets in his eye when you offer to buy him a drink.[/FIELDSET][/SPOILERBUTTON]
+[SPOILERBUTTON=Glasha Argkut][FIELDSET="Glasha Argkut"][b]Glasha Argkut:[/b] 
+Glasha is one of Ferrun's few close friends, though recently they've had somewhat of a falling out. Glasha is one of the few people who paid little or no heed to Ferrun's decomposing appearance. Ferrun has always admired Glasha's blunt, straight forward, and to the point outlook on life, even if it sometimes means arguments are frequent. Needless to say, Glasha can be quick to anger.
+
+Glasha works various odd jobs as a scout and a mercenary, and possibly more unsavory things. Ferrun's father, Mr. Pickett, doesn't trust Glasha and specifically disapproves of the idea that Ferrun might be spending any time with her. This has nothing to do with her half-orc descent, and more to do with the fact that one year when Glasha was accompanying the cattle driving crew, Mr. Pickett caught her stealing twice from their coffers. Needless to say Glasha was never invited back to the cattle crew.
+
+Ferrun thinks this might all be a misunderstanding but feels conflicted about respecting his father's wishes while also honoring one of his true friendships.
+[SPOILERBUTTON=Larger Image][CENTER][IMG]https://68.media.tumblr.com/9e0cc32393ebc7e6c3130a9c074f01a3/tumblr_omgfyb11Ea1tpgqzno1_500.png[/IMG][/CENTER][/SPOILERBUTTON]
+[/FIELDSET][/SPOILERBUTTON][/FIELDSET]
